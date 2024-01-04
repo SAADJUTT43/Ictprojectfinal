@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav{
+    width: 100vw;
+    height: 70px;
+    background-color: green ;
+    display: flex;
+    gap: 100px;
+
+}
+.nav .logo{
+    height: 100%;
+    width: auto;
+    margin-left: 70px;
+}
+.nav .nav-items{
+    height: 100%;
+    color: aqua;
+}
+.nav .nav-items ul li{
+    display: inline-block;
+    padding-left: 20px;
+    color: aqua;
+    font-size: 10px;
+    /* margin-top: px; */
+}
+.P-intro{
+    height: auto;
+    width: 200px;
+    background-color: bisque;
+    margin-left: 70px;
+    margin-top: 60px;
+}
+.P-intro h1{
+     font-family: 'Inter', sans-serif;
+     word-spacing: 0px;
+     letter-spacing: 5px;
+     font-size: 11px;
+     text-align: center;
+     color: #000000 ;
+
+}
+.P-intro #baloo2 {
+    font-family: 'Baloo 2', sans-serif;
+    font-size: 40px;
+    color: #000000;
+    margin-top: -8px;
+}
+.P-intro p{
+    font-family: 'Harmattan', sans-serif;
+    font-size: 10px ;
+    text-align: center;
+    margin-top: -5px;
+    color: #000000;
+
+}
+.P-intro .button{
+    width: 50px;
+    height: 20px;
+    background-color: aquamarine;
+    border
+
+}
+
+
+
